@@ -1,4 +1,4 @@
-# **Efficient healthcare data managementsytem**
+# **Efficient healthcare data management system**
 
 ## **Project Description**
  Real-time processing of large datasets, such as patient information, is often needed for healthcare applications. When processing huge volumes of data, traditional serial processing methods can lead to substantial performance bottlenecks, high latency, and wasteful system resource consumption. By integrating parallel processing techniques within Salesforce and utilizing the Bulk API, Asynchronous, Synchronous, Batch, Queueable, and Batch Apex, this project seeks to address these issues. The project’s main goal is 
