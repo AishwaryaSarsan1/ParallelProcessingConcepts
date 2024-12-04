@@ -12,7 +12,11 @@ Salesforce
 Apex,
  Asynchrobous Apex,
  Batch class,
+ Queueable Apex,
  Bulk api which uses the principles of Rest API,
- Postman.
+ Postman,
+ Workbench,
+ Data Loader,
+ Data Import Wizard.
 
 
